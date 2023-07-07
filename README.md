@@ -10,21 +10,25 @@ Links
 - [a11y in React.js][2]
 - [HTML Accessibility][3]
 - [Text to speech in Vue.js][4]
+- [ChromeVox: screen reader][10]
+- [Introduction to Aria by Google][11]
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility
 [2]: https://legacy.reactjs.org/docs/accessibility.html
 [3]: https://www.w3schools.com/html/html_accessibility.asp
 [4]: https://fontawesomeicons.com/tryit/code/vue-js-convert-text-to-speech/0
+[10]: https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en
+[11]: https://web.dev/semantics-aria/
 
 Showcase
 -----
 
-- [Trademe][1]
-- [Tokopedia][2]
-- [Traveloka][3]
-- [Raihan.my.id][4]
+- [Trademe][5]
+- [Tokopedia][6]
+- [Traveloka][7]
+- [Raihan.my.id][8]
 
-[1]: https://www.trademe.co.nz/
-[2]: https://www.tokopedia.com/
-[3]: https://www.traveloka.com/
-[4]: https://raihan.my.id/
+[5]: https://www.trademe.co.nz/
+[6]: https://www.tokopedia.com/
+[7]: https://www.traveloka.com/
+[8]: https://raihan.my.id/
