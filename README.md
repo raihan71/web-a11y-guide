@@ -6,19 +6,28 @@ See the docs of a11y on how to write web benefits everyone.
 Links
 -----
 
+- [Intro to Web A11Y][0]
 - [Mozilla: Accessibility][1]
 - [a11y in React.js][2]
 - [HTML Accessibility][3]
 - [Text to speech in Vue.js][4]
 - [ChromeVox: screen reader][10]
 - [Introduction to Aria by Google][11]
+- [Unit testing accessibility in advanced][12]
+- [Udacity's Course - Web Accessibility][13]
+- [Other links you may like to explore !!!][14]
 
+[0]: https://www.w3.org/WAI/fundamentals/accessibility-intro
 [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility
 [2]: https://legacy.reactjs.org/docs/accessibility.html
 [3]: https://www.w3schools.com/html/html_accessibility.asp
 [4]: https://fontawesomeicons.com/tryit/code/vue-js-convert-text-to-speech/0
 [10]: https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en
 [11]: https://web.dev/semantics-aria/
+[12]: https://medium.com/@raihannismara/unit-testing-for-web-a11y-in-advanced-4ea6f518b087
+[13]: https://www.udacity.com/course/web-accessibility--ud891
+[14]: https://stephaniewalter.design/blog/accessibility-resources-tools-articles-books-for-designer/
+
 
 Showcase
 -----
