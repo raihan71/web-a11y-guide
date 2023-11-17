@@ -16,6 +16,11 @@ Links
 - [Unit testing accessibility in advanced][12]
 - [Udacity's Course - Web Accessibility][13]
 - [Other links you may like to explore !!!][14]
+- [Intro to aria][15]
+- [Acccessibility for designer][16]
+- [Adding screen reader built-in on your web][17]
+- [Accessibility Cheat Sheet][18]
+- [Web Accessibility Guidance project][19]
 
 [0]: https://www.w3.org/WAI/fundamentals/accessibility-intro
 [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility
@@ -27,6 +32,11 @@ Links
 [12]: https://medium.com/@raihannismara/unit-testing-for-web-a11y-in-advanced-4ea6f518b087
 [13]: https://www.udacity.com/course/web-accessibility--ud891
 [14]: https://stephaniewalter.design/blog/accessibility-resources-tools-articles-books-for-designer/
+[15]: https://youtu.be/g9Qff0b-lHk?si=S6WS9RsDDDXWh9mK
+[16]: https://stephaniewalter.design/blog/accessibility-resources-tools-articles-books-for-designer/
+[17]: https://mikewest.org/2011/12/transcript-gdd-accessibility-with-chromevox/
+[18]: https://learntheweb.courses/topics/accessibility-cheat-sheet/
+[19]: https://govtnz.github.io/web-a11y-guidance/
 
 
 Showcase
