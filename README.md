@@ -21,6 +21,7 @@ Links
 - [Adding screen reader built-in on your web][17]
 - [Accessibility Cheat Sheet][18]
 - [Web Accessibility Guidance project][19]
+- [Angular a11y: build more accessible apps][20]
 
 [0]: https://www.w3.org/WAI/fundamentals/accessibility-intro
 [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility
@@ -37,6 +38,7 @@ Links
 [17]: https://mikewest.org/2011/12/transcript-gdd-accessibility-with-chromevox/
 [18]: https://learntheweb.courses/topics/accessibility-cheat-sheet/
 [19]: https://govtnz.github.io/web-a11y-guidance/
+[20]: https://codelabs.developers.google.com/angular-a11y#12
 
 
 Showcase
