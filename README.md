@@ -1,11 +1,11 @@
-# web-a11y-guide
+# web-a11y-guide 💪🦾🦿🧏‍♂️👨🏻‍🦯
 Web accessibility guidelines
 
-See the docs of a11y on how to write web benefits everyone.
+Web accessibility is about recognizing the importance of designing websites that are accessible to all users, understanding the guidelines and best practices, and implementing inclusive design principles to ensure a more inclusive and equitable digital environment. See the docs of a11y on how to write web benefits everyone below.
 
 Links
 -----
-
+#### General
 - [Intro to Web A11Y][0]
 - [Mozilla: Accessibility][1]
 - [a11y in React.js][2]
@@ -13,7 +13,6 @@ Links
 - [Text to speech in Vue.js][4]
 - [ChromeVox: screen reader][10]
 - [Introduction to Aria by Google][11]
-- [Unit testing accessibility in advanced][12]
 - [Udacity's Course - Web Accessibility][13]
 - [Other links you may like to explore !!!][14]
 - [Intro to aria][15]
@@ -39,7 +38,15 @@ Links
 [18]: https://learntheweb.courses/topics/accessibility-cheat-sheet/
 [19]: https://govtnz.github.io/web-a11y-guidance/
 [20]: https://codelabs.developers.google.com/angular-a11y#12
+[21]: https://circleci.com/blog/cypress-accessibility-testing/
+[22]: https://testing-library.com/docs/dom-testing-library/api-accessibility/
+[23]: https://www.cypress.io/blog/2023/06/13/maintaining-accessibility-through-user-focused-testing
 
+#### Unit Testing
+- [Unit testing accessibility in advanced][12]
+- [Accessibility testing with Cypress][21]
+- [Maintaining Accessibility thru Cypress][23]
+- [Testing Library Accessibility Aspect][22]
 
 Showcase
 -----
