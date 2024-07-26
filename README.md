@@ -1,7 +1,7 @@
 # web-a11y-guide 💪🦾🦿🧏‍♂️👨🏻‍🦯
 Web accessibility guidelines
 
-Web accessibility is about recognizing the importance of designing websites that are accessible to all users, understanding the guidelines and best practices, and implementing inclusive design principles to ensure a more inclusive and equitable digital environment. See the docs of a11y on how to write web benefits everyone below.
+Web accessibility is about recognizing the importance of designing websites that are accessible to all users, understanding the guidelines and best practices, and implementing inclusive design principles to ensure a more inclusive and equitable digital environment. See the docs of a11y on how to write web benefits for everyone below.
 
 Links
 -----
@@ -55,8 +55,10 @@ Showcase
 - [Tokopedia][6]
 - [Traveloka][7]
 - [Raihan.my.id][8]
+- [ReactTodos Spectrum][24]
 
 [5]: https://www.trademe.co.nz/
 [6]: https://www.tokopedia.com/
 [7]: https://www.traveloka.com/
 [8]: https://raihan.my.id/
+[24]: https://react-todos-omega.vercel.app/
