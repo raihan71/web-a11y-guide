@@ -41,12 +41,19 @@ Links
 [21]: https://circleci.com/blog/cypress-accessibility-testing/
 [22]: https://testing-library.com/docs/dom-testing-library/api-accessibility/
 [23]: https://www.cypress.io/blog/2023/06/13/maintaining-accessibility-through-user-focused-testing
+[27]: https://github.com/GovTechSG/purple-a11y/blob/master/INTEGRATION.md?rgh-link-date=2024-07-26T03%3A30%3A24Z
 
 #### Unit Testing
 - [Unit testing accessibility in advanced][12]
 - [Accessibility testing with Cypress][21]
 - [Maintaining Accessibility thru Cypress][23]
 - [Testing Library Accessibility Aspect][22]
+- [Purple A11y Integration with Cypress/playwright][27]
+
+Tools
+-----
+- [axe DevTools][26]
+- [Purple A11y][25]
 
 Showcase
 -----
@@ -62,3 +69,6 @@ Showcase
 [7]: https://www.traveloka.com/
 [8]: https://raihan.my.id/
 [24]: https://react-todos-omega.vercel.app/
+
+[25]: https://github.com/GovTechSG/purple-a11y
+[26]: https://www.deque.com/axe/devtools/
