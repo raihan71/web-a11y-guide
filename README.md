@@ -8,7 +8,6 @@ Links
 #### General
 - [Intro to Web A11Y][0]
 - [Mozilla: Accessibility][1]
-- [a11y in React.js][2]
 - [HTML Accessibility][3]
 - [Text to speech in Vue.js][4]
 - [ChromeVox: screen reader][10]
@@ -20,7 +19,6 @@ Links
 - [Adding screen reader built-in on your web][17]
 - [Accessibility Cheat Sheet][18]
 - [Web Accessibility Guidance project][19]
-- [Angular a11y: build more accessible apps][20]
 
 [0]: https://www.w3.org/WAI/fundamentals/accessibility-intro
 [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility
@@ -42,7 +40,19 @@ Links
 [22]: https://testing-library.com/docs/dom-testing-library/api-accessibility/
 [23]: https://www.cypress.io/blog/2023/06/13/maintaining-accessibility-through-user-focused-testing
 [27]: https://github.com/GovTechSG/purple-a11y/blob/master/INTEGRATION.md?rgh-link-date=2024-07-26T03%3A30%3A24Z
+[28]: https://www.youtube.com/watch?v=kz9e81oRs3Y
+[29]: https://reactjs.org/docs/accessibility.html
+[30]: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_accessibility
 
+#### React
+- [Accessibility in react by Mozilla][30]
+- [a11y in React.js][2]
+- [React Accessibility Essentials][29]
+- [React & Accessibility Fundamentals][28]
+
+#### Angular
+- [Angular a11y: build more accessible apps][20]
+  
 #### Unit Testing
 - [Unit testing accessibility in advanced][12]
 - [Accessibility testing with Cypress][21]
